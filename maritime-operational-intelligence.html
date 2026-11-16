@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Environmental compliance and predictive maritime safety — two case studies in geospatial rules, vessel telemetry, edge AI and operator decision support."><meta name="robots" content="index,follow">
+<meta name="theme-color" content="#102238">
+<title>Maritime Operational Intelligence | Frédéric Potet</title>
+<link rel="canonical" href="https://fredp-21.github.io/fredericpotet/maritime-operational-intelligence.html">
+<link rel="alternate" type="text/markdown" href="maritime-operational-intelligence.md" title="Markdown version">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Maritime Operational Intelligence","mainEntityOfPage":"https://fredp-21.github.io/fredericpotet/maritime-operational-intelligence.html","author":{"@type":"Person","name":"Frédéric Potet","sameAs":["https://www.linkedin.com/in/potetfrederic/","https://github.com/FredP-21"]},"description":"Environmental compliance and predictive maritime safety — two case studies in geospatial rules, vessel telemetry, edge AI and operator decision support."}</script>
+<style>
+:root{--navy:#102238;--deep:#1b4354;--teal:#147983;--ink:#263a49;--muted:#536574;--border:#dce5e9;--tint:#edf5f5}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#f7f9fa;color:var(--ink);font:16px/1.7 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+a{color:#126877;text-underline-offset:3px}a:focus-visible{outline:3px solid #ffcc60;outline-offset:4px}.wrap{max-width:980px;margin:auto;padding:0 24px}
+header{background:linear-gradient(125deg,#102238,#20445b);color:white;padding:25px 0 62px}
+header a{color:#ecf8f8}nav{display:flex;gap:24px;flex-wrap:wrap;align-items:center;margin:0 0 65px}nav a{text-decoration:none;font-size:.9rem}nav .brand{font-weight:750;margin-right:auto;font-size:1rem}
+.eyebrow{font-size:.74rem;color:#99d5d5;font-weight:800;letter-spacing:.15em;text-transform:uppercase}h1{font-size:clamp(2.3rem,5.7vw,3.8rem);line-height:1.12;letter-spacing:-.04em;margin:14px 0 17px}
+.intro{color:#e3f0f1;font-size:1.12rem;max-width:830px}main{padding-top:50px!important;padding-bottom:64px!important}
+article{margin:0 0 62px}article+article{border-top:1px solid var(--border);padding-top:40px}
+h2{color:var(--navy);font-size:1.75rem;line-height:1.3;letter-spacing:-.02em;margin:11px 0 5px}h3{font-size:1.05rem;color:var(--navy);margin:27px 0 10px}
+.subhead{color:var(--muted);font-size:1.09rem;margin:0 0 23px}.kicker{font-size:.75rem;color:var(--teal);font-weight:800;text-transform:uppercase;letter-spacing:.1em}
+.flow,.tiles{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px;margin-top:16px}.tile{background:white;border:1px solid var(--border);border-radius:10px;padding:20px}.tile b{display:block;color:var(--navy);margin:0 0 5px}.tile p{margin:0;color:var(--muted);font-size:.94rem}.bullets{padding-left:23px}.bullets li{padding:5px 0}
+.highlight{border-left:4px solid var(--teal);background:var(--tint);padding:20px 22px;border-radius:0 9px 9px 0;margin-top:27px}.highlight h3{margin:0 0 7px}.highlight p{margin:0}
+.cards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:15px;margin-top:25px}.card{background:white;border:1px solid var(--border);border-radius:11px;padding:23px}.card h2{font-size:1.2rem;margin:7px 0 10px}.card .metric{font-size:1.55rem;font-weight:800;color:var(--deep);margin-bottom:9px}.card p{margin:0}.card .num{color:var(--teal);font-weight:800;font-size:.75rem;letter-spacing:.12em}
+.note{color:var(--muted);font-size:.9rem;border-top:1px solid var(--border);padding-top:19px}.next{background:var(--tint);padding:21px;border-radius:9px;margin:22px 0}footer{background:white;border-top:1px solid var(--border);padding:26px 0;color:var(--muted);font-size:.92rem}
+@media(max-width:690px){nav{margin-bottom:44px;gap:13px}header{padding-bottom:45px}.flow,.tiles,.cards{grid-template-columns:1fr}main{padding-top:30px!important}}
+</style>
+</head>
+<body>
+<header><div class="wrap"><nav aria-label="Main navigation">
+<a class="brand" href="./">Frédéric Potet</a>
+<a href="./">Professional profile</a>
+<a href="maritime-operational-intelligence.html">Maritime AI</a>
+<a href="product-leadership-evidence.html">Leadership evidence</a>
+<a href="https://www.linkedin.com/in/potetfrederic/" rel="me">LinkedIn</a>
+</nav><div class="eyebrow">Selected Product Experience</div>
+<h1>Maritime Operational Intelligence</h1><p class="intro">Environmental compliance and predictive maritime safety — two case studies in geospatial rules, vessel telemetry, edge AI and operator decision support.</p></div></header>
+<main class="wrap">
+<article id="environmental-compliance">
+<div class="kicker">Case study 01 · Environment &amp; Compliance</div>
+<h2>Environmental compliance at sea</h2>
+<p class="subhead">Location-aware fuel changeover and regulatory evidence</p>
+<h3>Operational challenge</h3>
+<p>Commercial vessels must meet different fuel-emission requirements when approaching and entering regulated Emission Control Areas (ECAs). A late or missed fuel changeover can create compliance exposure, operational disruption and financial penalties. Captains and shore-based teams need consistent, timely guidance and a reliable record of events during the voyage.</p>
+<h3>From vessel data to operational action</h3>
+<div class="flow">
+<div class="tile"><b>Multi-source inputs</b><p>AIS positioning and movement; onboard fuel-system data; ECA boundaries and compliance rules.</p></div>
+<div class="tile"><b>Context-aware logic</b><p>Identify approaching regulated zones, fuel-changeover requirements and possible delays.</p></div>
+<div class="tile"><b>Decision support</b><p>Timely prompts to captain and headquarters; fuel-use and changeover records for reporting.</p></div>
+</div>
+<h3>Capabilities and customer value</h3>
+<ul class="bullets">
+<li><strong>Proactive guidance:</strong> alert the captain when a required fuel changeover must be completed before entering a regulated zone.</li>
+<li><strong>Shore-side visibility:</strong> give headquarters a consistent view of fleet fuel-changeover status and potential compliance exceptions.</li>
+<li><strong>Traceability:</strong> capture fuel usage and changeover events to support voyage-level regulatory records and reporting.</li>
+</ul>
+<div class="highlight"><h3>Product leadership contribution</h3><p>Translated maritime regulatory and operational needs into product capabilities for shipboard and shore-based users, working with engineering to integrate positioning, onboard system signals and compliance workflows into a scalable maritime software platform.</p></div>
+</article>
+<article id="predictive-safety">
+<div class="kicker">Case study 02 · Safety &amp; Edge AI</div>
+<h2>Predictive maritime safety</h2>
+<p class="subhead">Onboard AI for real-time vessel risk and condition intelligence</p>
+<h3>Operational challenge</h3>
+<p>At sea, operational risk and equipment deterioration vary with vessel movement, speed, route, sea state and weather. Retrospective reporting and fixed maintenance schedules offer limited visibility into each voyage's conditions. Crews and fleet operators need actionable intelligence close to where decisions are made.</p>
+<h3>From vessel telemetry to risk intelligence</h3>
+<div class="flow">
+<div class="tile"><b>Onboard inputs</b><p>NMEA and vessel-system signals; ship motion, speed, position, sea state and weather forecasts.</p></div>
+<div class="tile"><b>Edge AI processing</b><p>Models running onboard estimate operational severity, risk, wear and performance degradation.</p></div>
+<div class="tile"><b>Operator intelligence</b><p>Risk indications for captain and headquarters; maintenance insights; cumulative voyage exposure.</p></div>
+</div>
+<h3>Capabilities and customer value</h3>
+<ul class="bullets">
+<li><strong>Real-time safety awareness:</strong> provide crews and headquarters with an informed picture of operating risk and changing voyage conditions.</li>
+<li><strong>Condition-informed maintenance:</strong> identify deterioration patterns and emerging issues to guide maintenance planning and records.</li>
+<li><strong>Fleet intelligence:</strong> aggregate incidents, severity and cumulative voyage exposure to support fleet-wide risk management.</li>
+</ul>
+<div class="highlight"><h3>Product leadership contribution</h3><p>Helped lead the transition from laboratory-stage maritime data and AI technology toward operational deployment across geographically dispersed fleets: shaping product vision and priorities, translating operator needs into useful outputs, and working closely with engineering on execution and scale.</p></div>
+</article>
+<p class="note">High-level, non-proprietary descriptions of selected professional experience. This public portfolio does not include employer source code, client data or internal design documents.</p>
+<div class="next"><b>Explore further:</b> <a href="./">Professional profile</a> · <a href="maritime-operational-intelligence.md">Markdown version</a> · <a href="https://www.linkedin.com/in/potetfrederic/">Connect on LinkedIn</a></div></main>
+<footer><div class="wrap">Frédéric Potet · Senior Product Leader · <a href="./">Professional profile</a></div></footer>
+</body></html>
