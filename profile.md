@@ -36,6 +36,11 @@ Media and entertainment; maritime technology; automotive and connected systems; 
 
 Enterprise AI, cloud infrastructure, physical-world computing, industrial AI, robotics, intelligent connected systems, edge AI and quantum-inspired optimisation.
 
+## Selected Product Experience
+
+- [Maritime Operational Intelligence — two case studies](https://fredp-21.github.io/fredericpotet/maritime-operational-intelligence.html): Environmental compliance and predictive maritime safety with edge AI. [Markdown source](maritime-operational-intelligence.md).
+- [Product Leadership — Evidence & Impact](https://fredp-21.github.io/fredericpotet/product-leadership-evidence.html): Six examples of AI, cloud data, edge computing and product leadership. [Markdown source](product-leadership-evidence.md).
+
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/potetfrederic/)
