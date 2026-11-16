@@ -30,10 +30,15 @@ Media & Entertainment · Maritime Technology · Automotive & Connected Systems �
 
 I am particularly interested in the convergence of enterprise AI, cloud infrastructure and physical-world computing — including industrial AI, intelligent connected systems, robotics, edge AI and quantum-inspired optimisation.
 
+## Selected Product Experience
+
+- [Maritime Operational Intelligence — Environmental Compliance & Predictive Safety](https://fredp-21.github.io/fredericpotet/maritime-operational-intelligence.html) ([Markdown](maritime-operational-intelligence.md))
+- [Product Leadership — Evidence & Impact](https://fredp-21.github.io/fredericpotet/product-leadership-evidence.html) ([Markdown](product-leadership-evidence.md))
+
 ## Connect
 
 - [LinkedIn — Frédéric Potet](https://www.linkedin.com/in/potetfrederic/)
-- [Professional web profile](https://fredp-21.github.io/fredericpotet/) *(available when GitHub Pages is enabled)*
+- [Professional web profile](https://fredp-21.github.io/fredericpotet/)
 - [GitHub — FredP-21](https://github.com/FredP-21)
 
 ---
