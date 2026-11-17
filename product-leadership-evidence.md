@@ -38,6 +38,16 @@ Worked with data scientists, ML engineers, data engineers and analysts to delive
 
 Used Microsoft Copilot across Teams and Microsoft 365 for synthesis, communication and planning; Cursor and Augment for AI-assisted development; and a LangGraph-based enterprise intelligence layer for operational agents. Personally developed the GCP data-quality coverage agent and helped shape an agentic portfolio for data exploration, enablement, analysis and workflow automation.
 
+## 07. Research-to-product ecosystem leadership
+
+**AI/ML Labs and academic-industry engagement**
+
+At Vix Technology, created professional-services and AI/ML Labs activities engaging universities in the US, Canada, UK and Europe and leading data-service providers, alongside development of an executive-backed global Data & AI platform strategy, product propositions, roadmaps and tiered SaaS models.
+
+This work included an executive-sponsored strategy, feature/ecosystem proposition, business cases, commercial models, RFI/RFP tendering and executive presentations. Specific institution names, formal agreements and research outcomes are not asserted.
+
+[Read the Vix research-to-product case study](research-to-product-partnerships.md).
+
 ---
 
 [Professional profile](https://fredp-21.github.io/fredericpotet/) · [Maritime operational intelligence case studies](https://fredp-21.github.io/fredericpotet/maritime-operational-intelligence.html) · [LinkedIn](https://www.linkedin.com/in/potetfrederic/)
