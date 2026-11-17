@@ -33,6 +33,7 @@ I am particularly interested in the convergence of enterprise AI, cloud infrastr
 ## Selected Product Experience
 
 - [Maritime Operational Intelligence — Environmental Compliance & Predictive Safety](https://fredp-21.github.io/fredericpotet/maritime-operational-intelligence.html) ([Markdown](maritime-operational-intelligence.md))
+- [AI/ML Labs & Research-to-Product Partnerships](https://fredp-21.github.io/fredericpotet/research-to-product-partnerships.html) ([Markdown](research-to-product-partnerships.md))
 - [Product Leadership — Evidence & Impact](https://fredp-21.github.io/fredericpotet/product-leadership-evidence.html) ([Markdown](product-leadership-evidence.md))
 
 ## Connect
