@@ -39,8 +39,9 @@ Enterprise AI, cloud infrastructure, physical-world computing, industrial AI, ro
 ## Selected Product Experience
 
 - [Maritime Operational Intelligence — two case studies](https://fredp-21.github.io/fredericpotet/maritime-operational-intelligence.html): Environmental compliance and predictive maritime safety with edge AI. [Markdown source](maritime-operational-intelligence.md).
+- [Product-led Commercialisation & Sales Enablement](https://fredp-21.github.io/fredericpotet/product-led-commercialisation.html): Vix Technology, EVRYTHNG and Living PlanIT — prospect engagement, enterprise RFI/RFP tendering, sales enablement and customer value propositions. [Markdown source](product-led-commercialisation.md).
 - [AI/ML Labs & Research-to-Product Partnerships](https://fredp-21.github.io/fredericpotet/research-to-product-partnerships.html): Vix Technology, professional services, university engagement in North America and Europe, data-service partners and commercial Data & AI platform strategy. [Markdown source](research-to-product-partnerships.md).
-- [Product Leadership — Evidence & Impact](https://fredp-21.github.io/fredericpotet/product-leadership-evidence.html): Seven examples of AI, cloud data, edge computing and product leadership. [Markdown source](product-leadership-evidence.md).
+- [Product Leadership — Evidence & Impact](https://fredp-21.github.io/fredericpotet/product-leadership-evidence.html): Eight examples of AI, cloud data, edge computing and product leadership. [Markdown source](product-leadership-evidence.md).
 
 ## Connect
 
