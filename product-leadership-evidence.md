@@ -48,6 +48,16 @@ This work included an executive-sponsored strategy, feature/ecosystem propositio
 
 [Read the Vix research-to-product case study](research-to-product-partnerships.md).
 
+## 08. Commercial product leadership & pre-sales
+
+**Enterprise prospect engagement and RFI/RFP contributions**
+
+Across Vix Technology, EVRYTHNG and Living PlanIT, contributed to prospect and strategic customer discussions, product-led pre-sales, tender inputs, sales collateral and commercial propositions. Connected platform capabilities to customer requirements and enterprise buying processes. At Vix, developed Data & AI business cases, roadmaps and tiered SaaS propositions; at EVRYTHNG, supported strategic customer adoption and growth; at Living PlanIT, translated smart-infrastructure and edge-to-cloud capabilities into value propositions for prospective ecosystem customers.
+
+[Read the commercialisation and sales-enablement case study](product-led-commercialisation.md).
+
+This describes product-led commercial support, not direct sales quota ownership or specific attributed revenues.
+
 ---
 
 [Professional profile](https://fredp-21.github.io/fredericpotet/) · [Maritime operational intelligence case studies](https://fredp-21.github.io/fredericpotet/maritime-operational-intelligence.html) · [LinkedIn](https://www.linkedin.com/in/potetfrederic/)
