@@ -6,7 +6,7 @@
 - **Experience:** 20+ years in technical product management and leadership
 - **LinkedIn:** https://www.linkedin.com/in/potetfrederic/
 - **GitHub:** https://github.com/FredP-21
-- **Professional website (once published):** https://fredp-21.github.io/fredericpotet/
+- **Professional website:** https://fredp-21.github.io/fredericpotet/
 
 ## Professional Summary
 
@@ -39,7 +39,8 @@ Enterprise AI, cloud infrastructure, physical-world computing, industrial AI, ro
 ## Selected Product Experience
 
 - [Maritime Operational Intelligence — two case studies](https://fredp-21.github.io/fredericpotet/maritime-operational-intelligence.html): Environmental compliance and predictive maritime safety with edge AI. [Markdown source](maritime-operational-intelligence.md).
-- [Product Leadership — Evidence & Impact](https://fredp-21.github.io/fredericpotet/product-leadership-evidence.html): Six examples of AI, cloud data, edge computing and product leadership. [Markdown source](product-leadership-evidence.md).
+- [AI/ML Labs & Research-to-Product Partnerships](https://fredp-21.github.io/fredericpotet/research-to-product-partnerships.html): Vix Technology, professional services, university engagement in North America and Europe, data-service partners and commercial Data & AI platform strategy. [Markdown source](research-to-product-partnerships.md).
+- [Product Leadership — Evidence & Impact](https://fredp-21.github.io/fredericpotet/product-leadership-evidence.html): Seven examples of AI, cloud data, edge computing and product leadership. [Markdown source](product-leadership-evidence.md).
 
 ## Connect
 
