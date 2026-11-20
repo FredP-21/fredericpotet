@@ -1,4 +1,4 @@
-# Frédéric Potet
+# Frederic Potet
 
 **Senior Product Leader | Enterprise AI & Data Platforms | Cloud & Edge Computing**
 
@@ -39,7 +39,7 @@ I am particularly interested in the convergence of enterprise AI, cloud infrastr
 
 ## Connect
 
-- [LinkedIn — Frédéric Potet](https://www.linkedin.com/in/potetfrederic/)
+- [LinkedIn — Frederic Potet](https://www.linkedin.com/in/potetfrederic/)
 - [Professional web profile](https://fredp-21.github.io/fredericpotet/)
 - [GitHub — FredP-21](https://github.com/FredP-21)
 
