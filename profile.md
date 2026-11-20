@@ -1,4 +1,4 @@
-# Frédéric Potet — Professional Profile
+# Frederic Potet — Professional Profile
 
 **Senior Product Leader | Enterprise AI & Data Platforms | Cloud & Edge Computing**
 
